@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "491775122889",
+    "firebase_url": "https://mads-calculator-2123a.firebaseio.com",
+    "project_id": "mads-calculator-2123a",
+    "storage_bucket": "mads-calculator-2123a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491775122889:android:7f404d5b01831e83c0dc18",
+        "android_client_info": {
+          "package_name": "com.shreyansh.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491775122889-ibpn18ukcg9aar9ch95merrmocl17i22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGxUf2C7raoSDVpBIKImc3kAXDD3Qqz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491775122889-ibpn18ukcg9aar9ch95merrmocl17i22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
